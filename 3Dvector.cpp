@@ -136,6 +136,7 @@ struct vec3D
 	}	
 };
 
+// main with a couple of tests:
 int main ()
 {
 	vec3D a (5.0f, 4.0f, 7.0f);
