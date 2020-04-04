@@ -124,7 +124,8 @@ struct vec2
 		return *this;
 	}		
 };
-
+/*
+// main with a couple of random tests:
 int main()
 {
 	vec2 a(3.0f, 5.0f);
@@ -155,3 +156,4 @@ int main()
 	
 	return 0;
 }
+*/
